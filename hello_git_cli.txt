@@ -3,3 +3,5 @@ hello git cli environment
 1
 2
 3
+
+git rename practice
